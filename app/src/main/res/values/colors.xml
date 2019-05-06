@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0951E2</color>
+    <color name="colorPrimaryDark">#000202</color>
+    <color name="colorAccent">#FDFCFD</color>
+    <color name="menta">#4EF6CC</color>
+    <color name="lavanda">#E398F2</color>
+    <color name="turqueza">#0BF5F7</color>
+</resources>
